@@ -1,0 +1,76 @@
+C:\Users\lsgut\source\repos\ScapeRoom\ScapeRoom\bin\Debug\ScapeRoom.exe.config
+C:\Users\lsgut\source\repos\ScapeRoom\ScapeRoom\bin\Debug\ScapeRoom.exe
+C:\Users\lsgut\source\repos\ScapeRoom\ScapeRoom\bin\Debug\ScapeRoom.pdb
+C:\Users\lsgut\source\repos\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.csproj.AssemblyReference.cache
+C:\Users\lsgut\source\repos\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.Properties.Resources.resources
+C:\Users\lsgut\source\repos\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.csproj.GenerateResource.cache
+C:\Users\lsgut\source\repos\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.csproj.CoreCompileInputs.cache
+C:\Users\lsgut\source\repos\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.exe
+C:\Users\lsgut\source\repos\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.pdb
+C:\Users\lsgut\source\repos\ScapeRoom - copia\ScapeRoom\bin\Debug\ScapeRoom.exe.config
+C:\Users\lsgut\source\repos\ScapeRoom - copia\ScapeRoom\bin\Debug\ScapeRoom.exe
+C:\Users\lsgut\source\repos\ScapeRoom - copia\ScapeRoom\bin\Debug\ScapeRoom.pdb
+C:\Users\lsgut\source\repos\ScapeRoom - copia\ScapeRoom\obj\Debug\ScapeRoom.csproj.AssemblyReference.cache
+C:\Users\lsgut\source\repos\ScapeRoom - copia\ScapeRoom\obj\Debug\ScapeRoom.Properties.Resources.resources
+C:\Users\lsgut\source\repos\ScapeRoom - copia\ScapeRoom\obj\Debug\ScapeRoom.csproj.GenerateResource.cache
+C:\Users\lsgut\source\repos\ScapeRoom - copia\ScapeRoom\obj\Debug\ScapeRoom.csproj.CoreCompileInputs.cache
+C:\Users\lsgut\source\repos\ScapeRoom - copia\ScapeRoom\obj\Debug\ScapeRoom.exe
+C:\Users\lsgut\source\repos\ScapeRoom - copia\ScapeRoom\obj\Debug\ScapeRoom.pdb
+D:\TRABAJOS\laura\ScapeRoom - copia\ScapeRoom\bin\Debug\ScapeRoom.exe.config
+D:\TRABAJOS\laura\ScapeRoom - copia\ScapeRoom\bin\Debug\ScapeRoom.exe
+D:\TRABAJOS\laura\ScapeRoom - copia\ScapeRoom\bin\Debug\ScapeRoom.pdb
+D:\TRABAJOS\laura\ScapeRoom - copia\ScapeRoom\obj\Debug\ScapeRoom.csproj.AssemblyReference.cache
+D:\TRABAJOS\laura\ScapeRoom - copia\ScapeRoom\obj\Debug\ScapeRoom.csproj.SuggestedBindingRedirects.cache
+D:\TRABAJOS\laura\ScapeRoom - copia\ScapeRoom\obj\Debug\ScapeRoom.Form1.resources
+D:\TRABAJOS\laura\ScapeRoom - copia\ScapeRoom\obj\Debug\ScapeRoom.Properties.Resources.resources
+D:\TRABAJOS\laura\ScapeRoom - copia\ScapeRoom\obj\Debug\ScapeRoom.csproj.GenerateResource.cache
+D:\TRABAJOS\laura\ScapeRoom - copia\ScapeRoom\obj\Debug\ScapeRoom.csproj.CoreCompileInputs.cache
+D:\TRABAJOS\laura\ScapeRoom - copia\ScapeRoom\obj\Debug\ScapeRoom.exe
+D:\TRABAJOS\laura\ScapeRoom - copia\ScapeRoom\obj\Debug\ScapeRoom.pdb
+C:\Users\lsgut\source\repos\ScapeRoom - copia\ScapeRoom\obj\Debug\ScapeRoom.imgMesa.resources
+C:\Users\lsgut\source\repos\ScapeRoom - copia\ScapeRoom\obj\Debug\ScapeRoom.Room2.resources
+D:\TRABAJOS\ScapeRoom - copia - copia (3)\ScapeRoom\bin\Debug\ScapeRoom.exe.config
+D:\TRABAJOS\ScapeRoom - copia - copia (3)\ScapeRoom\bin\Debug\ScapeRoom.exe
+D:\TRABAJOS\ScapeRoom - copia - copia (3)\ScapeRoom\bin\Debug\ScapeRoom.pdb
+D:\TRABAJOS\ScapeRoom - copia - copia (3)\ScapeRoom\obj\Debug\ScapeRoom.csproj.AssemblyReference.cache
+D:\TRABAJOS\ScapeRoom - copia - copia (3)\ScapeRoom\obj\Debug\ScapeRoom.csproj.SuggestedBindingRedirects.cache
+D:\TRABAJOS\ScapeRoom - copia - copia (3)\ScapeRoom\obj\Debug\ScapeRoom.imgMesa.resources
+D:\TRABAJOS\ScapeRoom - copia - copia (3)\ScapeRoom\obj\Debug\ScapeRoom.Properties.Resources.resources
+D:\TRABAJOS\ScapeRoom - copia - copia (3)\ScapeRoom\obj\Debug\ScapeRoom.Room2.resources
+D:\TRABAJOS\ScapeRoom - copia - copia (3)\ScapeRoom\obj\Debug\ScapeRoom.csproj.GenerateResource.cache
+D:\TRABAJOS\ScapeRoom - copia - copia (3)\ScapeRoom\obj\Debug\ScapeRoom.csproj.CoreCompileInputs.cache
+D:\TRABAJOS\ScapeRoom - copia - copia (3)\ScapeRoom\obj\Debug\ScapeRoom.exe
+D:\TRABAJOS\ScapeRoom - copia - copia (3)\ScapeRoom\obj\Debug\ScapeRoom.pdb
+D:\TRABAJOS\laura\ScapeRoom\ScapeRoom\bin\Debug\ScapeRoom.exe.config
+D:\TRABAJOS\laura\ScapeRoom\ScapeRoom\bin\Debug\ScapeRoom.exe
+D:\TRABAJOS\laura\ScapeRoom\ScapeRoom\bin\Debug\ScapeRoom.pdb
+D:\TRABAJOS\laura\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.csproj.AssemblyReference.cache
+D:\TRABAJOS\laura\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.csproj.SuggestedBindingRedirects.cache
+D:\TRABAJOS\laura\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.imgMesa.resources
+D:\TRABAJOS\laura\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.Properties.Resources.resources
+D:\TRABAJOS\laura\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.Room2.resources
+D:\TRABAJOS\laura\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.csproj.GenerateResource.cache
+D:\TRABAJOS\laura\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.csproj.CoreCompileInputs.cache
+D:\TRABAJOS\laura\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.exe
+D:\TRABAJOS\laura\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.pdb
+C:\Users\lsgut\source\repos\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.imgMesa.resources
+C:\Users\lsgut\source\repos\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.Form2.resources
+D:\TRABAJOS\ScapeRoom\ScapeRoom\bin\Debug\ScapeRoom.exe.config
+D:\TRABAJOS\ScapeRoom\ScapeRoom\bin\Debug\ScapeRoom.exe
+D:\TRABAJOS\ScapeRoom\ScapeRoom\bin\Debug\ScapeRoom.pdb
+D:\TRABAJOS\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.csproj.AssemblyReference.cache
+D:\TRABAJOS\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.csproj.SuggestedBindingRedirects.cache
+D:\TRABAJOS\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.imgMesa.resources
+D:\TRABAJOS\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.Properties.Resources.resources
+D:\TRABAJOS\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.Form2.resources
+D:\TRABAJOS\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.csproj.GenerateResource.cache
+D:\TRABAJOS\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.csproj.CoreCompileInputs.cache
+D:\TRABAJOS\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.exe
+D:\TRABAJOS\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.pdb
+D:\TRABAJOS\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.Room3.resources
+D:\TRABAJOS\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.Menu.resources
+D:\TRABAJOS\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.Instrucciones.resources
+D:\TRABAJOS\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.HistoriaInicio.resources
+D:\TRABAJOS\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.Historia2.resources
+D:\TRABAJOS\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.Historia3.resources
+D:\TRABAJOS\ScapeRoom\ScapeRoom\obj\Debug\ScapeRoom.Historia4.resources
